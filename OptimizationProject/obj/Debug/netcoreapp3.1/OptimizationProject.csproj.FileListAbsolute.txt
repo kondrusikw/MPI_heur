@@ -1,0 +1,11 @@
+D:\studia\mgr\MPI\oast2-main\OptimizationProject\obj\Debug\netcoreapp3.1\OptimizationProject.csprojAssemblyReference.cache
+D:\studia\mgr\MPI\oast2-main\OptimizationProject\obj\Debug\netcoreapp3.1\OptimizationProject.AssemblyInfoInputs.cache
+D:\studia\mgr\MPI\oast2-main\OptimizationProject\obj\Debug\netcoreapp3.1\OptimizationProject.AssemblyInfo.cs
+D:\studia\mgr\MPI\oast2-main\OptimizationProject\bin\Debug\netcoreapp3.1\OptimizationProject.exe
+D:\studia\mgr\MPI\oast2-main\OptimizationProject\bin\Debug\netcoreapp3.1\OptimizationProject.deps.json
+D:\studia\mgr\MPI\oast2-main\OptimizationProject\bin\Debug\netcoreapp3.1\OptimizationProject.runtimeconfig.json
+D:\studia\mgr\MPI\oast2-main\OptimizationProject\bin\Debug\netcoreapp3.1\OptimizationProject.runtimeconfig.dev.json
+D:\studia\mgr\MPI\oast2-main\OptimizationProject\bin\Debug\netcoreapp3.1\OptimizationProject.dll
+D:\studia\mgr\MPI\oast2-main\OptimizationProject\bin\Debug\netcoreapp3.1\OptimizationProject.pdb
+D:\studia\mgr\MPI\oast2-main\OptimizationProject\obj\Debug\netcoreapp3.1\OptimizationProject.dll
+D:\studia\mgr\MPI\oast2-main\OptimizationProject\obj\Debug\netcoreapp3.1\OptimizationProject.pdb
